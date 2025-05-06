@@ -1029,3 +1029,4 @@ I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\BlazorT
 I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\refint\BlazorTasker.dll
 I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\BlazorTasker.pdb
 I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\ref\BlazorTasker.dll
+I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\BlazorTasker.sourcelink.json
