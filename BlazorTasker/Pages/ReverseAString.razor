@@ -1,0 +1,43 @@
+﻿@page "/reverseastring"
+
+<PageTitle>Blazor Tasker - Reverse A String</PageTitle>
+
+<h3>Reverse A String</h3>
+
+<div class="vstack gap-3 col-8 col-md-6">
+  <InputText @bind-Value="message" class="form-control" placeholder="Enter a string to reverse"></InputText>
+  <div class="text-end">
+    <button class="btn btn-primary" @onclick="ReverseMe">Reverse Me</button>
+    <button class="btn btn-danger" @onclick="ClearMe">Clear the field</button>
+  </div>
+</div>
+<div>@reversedMessage</div>
+
+@code {
+  private string message = "Reverse Me!";
+  private string reversedMessage = string.Empty;
+  private string displayMessage = string.Empty;
+
+  private void ReverseMe()
+  {
+    // Reset reversedMessage before appending characters
+    reversedMessage = string.Empty;
+
+    // Iterate through the string in reverse order
+    for (int i = message.Length - 1; i >= 0; i--)
+    {
+      // Append each character to the reversedMessage
+      reversedMessage += message[i];
+    }
+
+    // Display the reversed message (Currently unused)
+    displayMessage = $"Reversed Message: {reversedMessage}";
+  }
+
+  private void ClearMe()
+  {
+    // Clear the input field and reversed message
+    message = string.Empty;
+    reversedMessage = string.Empty;
+  }
+}
