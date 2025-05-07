@@ -1,5 +1,6 @@
 ﻿@page "/reverseastring"
 
+
 <PageTitle>Blazor Tasker - Reverse A String</PageTitle>
 
 <h3>Reverse A String</h3>
@@ -10,13 +11,22 @@
     <button class="btn btn-primary" @onclick="ReverseMe">Reverse Me</button>
     <button class="btn btn-danger" @onclick="ClearMe">Clear the field</button>
   </div>
+  <hr />
+  @if (reversedMessage != "") {
+    @if (IsPalindrome) {
+      <Message DisplayMessage="@displayMessage" CssClass="alert-success" Title="The string IS a palindrome!" />
+    } else {
+      <Message DisplayMessage="@displayMessage" CssClass="alert-danger" Title="The string IS NOT a palindrome!" />
+    }
+  }
 </div>
-<div>@reversedMessage</div>
+
 
 @code {
   private string message = "Reverse Me!";
   private string reversedMessage = string.Empty;
   private string displayMessage = string.Empty;
+  private bool IsPalindrome = false;
 
   private void ReverseMe()
   {
@@ -29,6 +39,16 @@
       // Append each character to the reversedMessage
       reversedMessage += message[i];
     }
+
+     // Check if the reversed message is the same as the original
+        if (message == reversedMessage)
+        {
+            IsPalindrome = true;
+        }
+        else
+        {
+            IsPalindrome = false;
+        }
 
     // Display the reversed message (Currently unused)
     displayMessage = $"Reversed Message: {reversedMessage}";
