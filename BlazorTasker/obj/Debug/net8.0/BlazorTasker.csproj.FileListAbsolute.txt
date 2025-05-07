@@ -816,8 +816,6 @@ I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\staticw
 I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorTasker.props
 I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorTasker.props
 I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\staticwebassets.pack.json
-I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\scopedcss\Layout\MainLayout.razor.rz.scp.css
-I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\scopedcss\Layout\NavMenu.razor.rz.scp.css
 I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\scopedcss\bundle\BlazorTasker.styles.css
 I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\scopedcss\projectbundle\BlazorTasker.bundle.scp.css
 I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\compressed\rat4705wui.gz
@@ -1030,3 +1028,5 @@ I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\refint\
 I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\BlazorTasker.pdb
 I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\ref\BlazorTasker.dll
 I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\BlazorTasker.sourcelink.json
+I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
