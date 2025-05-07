@@ -33,6 +33,10 @@
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
+      "Id": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\wwwroot\\img\\mw1920_Tasker_600.png",
+      "PackagePath": "staticwebassets\\img\\mw1920_Tasker_600.png"
+    },
+    {
       "Id": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
