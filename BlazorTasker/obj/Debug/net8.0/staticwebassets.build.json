@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "reH/HlINdXGJqGcvTtUBgS0JfnrCmUSHTyK01ai1OC8=",
+  "Hash": "YbPdRzr8VxfHq26ettlsd6mGVGeTZ06RZyvb13ZPyyI=",
   "Source": "BlazorTasker",
   "BasePath": "/",
   "Mode": "Root",
@@ -7902,12 +7902,12 @@
       "OriginalItemSpec": "wwwroot\\icon-192.png"
     },
     {
-      "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\wwwroot\\img\\mw1920_Tasker_600.png",
+      "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\wwwroot\\img\\Tasker_600.png",
       "SourceId": "BlazorTasker",
       "SourceType": "Discovered",
       "ContentRoot": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "img/mw1920_Tasker_600.png",
+      "RelativePath": "img/Tasker_600.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7918,7 +7918,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\mw1920_Tasker_600.png"
+      "OriginalItemSpec": "wwwroot\\img\\Tasker_600.png"
     },
     {
       "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\wwwroot\\index.html",
