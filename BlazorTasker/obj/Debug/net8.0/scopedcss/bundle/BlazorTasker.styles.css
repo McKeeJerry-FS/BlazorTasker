@@ -143,3 +143,7 @@ main[b-wt0vj3cq34] {
         overflow-y: auto;
     }
 }
+/* /Components/UI/TaskerLine.razor.rz.scp.css */
+.complete[b-0mop4kfq49] {
+    text-decoration: line-through;
+}

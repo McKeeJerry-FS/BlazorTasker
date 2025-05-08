@@ -1,4 +1,8 @@
 is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
 build_property.TargetFramework = net8.0
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = 
@@ -6,12 +10,12 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = false
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
-build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = browser
 build_property.RootNamespace = BlazorTasker
 build_property.RootNamespace = BlazorTasker
 build_property.ProjectDir = C:\Users\jerry\source\repos\McKeeJerry-FS\BlazorTasker\BlazorTasker\
 build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
@@ -34,6 +38,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/jerry/source/repos/McKeeJerry-FS/BlazorTasker/BlazorTasker/Components/Pages/ReverseAString.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSZXZlcnNlQVN0cmluZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jerry/source/repos/McKeeJerry-FS/BlazorTasker/BlazorTasker/Components/Pages/Tasker.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUYXNrZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/jerry/source/repos/McKeeJerry-FS/BlazorTasker/BlazorTasker/Components/Pages/Terms.razor]
@@ -59,3 +67,7 @@ build_metadata.AdditionalFiles.CssScope = b-wt0vj3cq34
 [C:/Users/jerry/source/repos/McKeeJerry-FS/BlazorTasker/BlazorTasker/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-kgvwlb6zm3
+
+[C:/Users/jerry/source/repos/McKeeJerry-FS/BlazorTasker/BlazorTasker/Components/UI/TaskerLine.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xVSVxUYXNrZXJMaW5lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-0mop4kfq49
