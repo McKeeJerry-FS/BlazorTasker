@@ -2071,3 +2071,4 @@ C:\Users\jerry\source\repos\McKeeJerry-FS\BlazorTasker\BlazorTasker\obj\Debug\ne
 C:\Users\jerry\source\repos\McKeeJerry-FS\BlazorTasker\BlazorTasker\obj\Debug\net8.0\compressed\bpshtv4pbu-3c5vv0xe4g.gz
 C:\Users\jerry\source\repos\McKeeJerry-FS\BlazorTasker\BlazorTasker\obj\Debug\net8.0\compressed\kydo0fby9q-c9oet2rbup.gz
 C:\Users\jerry\source\repos\McKeeJerry-FS\BlazorTasker\BlazorTasker\obj\Debug\net8.0\compressed\ysfralledi-gcna5nfali.gz
+I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\scopedcss\Components\UI\TaskerLine.razor.rz.scp.css

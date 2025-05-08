@@ -1,0 +1,1 @@
+I:\Personally Created Project\BlazorTasker\BlazorTasker\bin\Release\net8.0\publish\web.config

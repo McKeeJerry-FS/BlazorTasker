@@ -14,9 +14,9 @@
   <hr />
   @if (reversedMessage != "") {
     @if (IsPalindrome) {
-      <Message DisplayMessage="@displayMessage" CssClass="alert-success" Title="The string IS a palindrome!" />
+      <@Message DisplayMessage="@displayMessage" CssClass="alert-success" Title="The string IS a palindrome!" />
     } else {
-      <Message DisplayMessage="@displayMessage" CssClass="alert-danger" Title="The string IS NOT a palindrome!" />
+      <@Message DisplayMessage="@displayMessage" CssClass="alert-danger" Title="The string IS NOT a palindrome!" />
     }
   }
 </div>
