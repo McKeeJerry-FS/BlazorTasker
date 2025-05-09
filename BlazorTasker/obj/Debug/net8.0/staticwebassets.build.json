@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YbPdRzr8VxfHq26ettlsd6mGVGeTZ06RZyvb13ZPyyI=",
+  "Hash": "8UbbMvc0jXoDd+mdlpfCwEnqNj1qa6EZsnPRlSbMx0w=",
   "Source": "BlazorTasker",
   "BasePath": "/",
   "Mode": "Root",
@@ -109,7 +109,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\jmckee\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.15\\runtimes\\browser-wasm\\native\\dotnet.js"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.15\\runtimes\\browser-wasm\\native\\dotnet.js"
     },
     {
       "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\jmckee\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.15\\runtimes\\browser-wasm\\native\\dotnet.js.map"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.15\\runtimes\\browser-wasm\\native\\dotnet.js.map"
     },
     {
-      "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.15.qdvlpi5mzi.js",
+      "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.15.ggd1fyv7lv.js",
       "SourceId": "BlazorTasker",
       "SourceType": "Computed",
       "ContentRoot": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.15.qdvlpi5mzi.js",
+      "RelativePath": "_framework/dotnet.native.8.0.15.ggd1fyv7lv.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,7 +147,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\jmckee\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.15\\runtimes\\browser-wasm\\native\\dotnet.native.js"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.15\\runtimes\\browser-wasm\\native\\dotnet.native.js"
     },
     {
       "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
@@ -166,15 +166,15 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\jmckee\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.15\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.15\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
     },
     {
-      "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.15.iblbmn14cv.js",
+      "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.15.pdm8tx6jky.js",
       "SourceId": "BlazorTasker",
       "SourceType": "Computed",
       "ContentRoot": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.15.iblbmn14cv.js",
+      "RelativePath": "_framework/dotnet.runtime.8.0.15.pdm8tx6jky.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,7 +185,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\jmckee\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.15\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.15\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
     },
     {
       "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
@@ -204,7 +204,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\jmckee\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.15\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.15\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
     },
     {
       "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
@@ -223,7 +223,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\jmckee\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.15\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.15\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
     },
     {
       "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
@@ -242,7 +242,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\jmckee\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.15\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.15\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
     },
     {
       "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
@@ -261,7 +261,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\jmckee\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.15\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.15\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
     },
     {
       "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.wasm",
@@ -4083,25 +4083,6 @@
       "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.NetworkInformation.wasm"
     },
     {
-      "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\18kc91mtfc.gz",
-      "SourceId": "BlazorTasker",
-      "SourceType": "Computed",
-      "ContentRoot": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
-    },
-    {
       "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\1p11rq1q13.gz",
       "SourceId": "BlazorTasker",
       "SourceType": "Computed",
@@ -4691,25 +4672,6 @@
       "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Diagnostics.TextWriterTraceListener.wasm"
     },
     {
-      "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\6nzuremu6l.gz",
-      "SourceId": "BlazorTasker",
-      "SourceType": "Computed",
-      "ContentRoot": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.wasm.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
-    },
-    {
       "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\6wuqio3i37.gz",
       "SourceId": "BlazorTasker",
       "SourceType": "Computed",
@@ -5128,6 +5090,25 @@
       "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Diagnostics.Tools.wasm"
     },
     {
+      "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\bcbf39ee8b.gz",
+      "SourceId": "BlazorTasker",
+      "SourceType": "Computed",
+      "ContentRoot": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
+    },
+    {
       "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\bh22wy5vnh.gz",
       "SourceId": "BlazorTasker",
       "SourceType": "Computed",
@@ -5451,25 +5432,6 @@
       "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Tasks.Dataflow.wasm"
     },
     {
-      "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\dplxd7qxl0.gz",
-      "SourceId": "BlazorTasker",
-      "SourceType": "Computed",
-      "ContentRoot": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
-    },
-    {
       "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\dq77e4ul57.gz",
       "SourceId": "BlazorTasker",
       "SourceType": "Computed",
@@ -5584,25 +5546,6 @@
       "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.Requests.wasm"
     },
     {
-      "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\erc5gru7zp.gz",
-      "SourceId": "BlazorTasker",
-      "SourceType": "Computed",
-      "ContentRoot": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
-    },
-    {
       "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\esbj4mgcq5.gz",
       "SourceId": "BlazorTasker",
       "SourceType": "Computed",
@@ -5620,6 +5563,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Claims.wasm"
+    },
+    {
+      "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\esmwggrdpn.gz",
+      "SourceId": "BlazorTasker",
+      "SourceType": "Computed",
+      "ContentRoot": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
     },
     {
       "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\fiqj5adwj8.gz",
@@ -5715,6 +5677,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Drawing.Primitives.wasm"
+    },
+    {
+      "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\ggd1fyv7lv.gz",
+      "SourceId": "BlazorTasker",
+      "SourceType": "Computed",
+      "ContentRoot": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.8.0.15.ggd1fyv7lv.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.15.ggd1fyv7lv.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.15.ggd1fyv7lv.js"
     },
     {
       "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\gij5s7fe6n.gz",
@@ -5869,25 +5850,6 @@
       "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ComponentModel.wasm"
     },
     {
-      "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\hq0e6i90uo.gz",
-      "SourceId": "BlazorTasker",
-      "SourceType": "Computed",
-      "ContentRoot": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
-    },
-    {
       "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\hq61wwv25s.gz",
       "SourceId": "BlazorTasker",
       "SourceType": "Computed",
@@ -5945,25 +5907,6 @@
       "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.wasm"
     },
     {
-      "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\iblbmn14cv.gz",
-      "SourceId": "BlazorTasker",
-      "SourceType": "Computed",
-      "ContentRoot": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.15.iblbmn14cv.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.15.iblbmn14cv.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.15.iblbmn14cv.js"
-    },
-    {
       "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\id9jpwtzbd.gz",
       "SourceId": "BlazorTasker",
       "SourceType": "Computed",
@@ -6019,25 +5962,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.wasm"
-    },
-    {
-      "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\ilmvhwlq4q.gz",
-      "SourceId": "BlazorTasker",
-      "SourceType": "Computed",
-      "ContentRoot": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
     },
     {
       "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\ipf1tz8lyr.gz",
@@ -6363,6 +6287,25 @@
       "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.Pipelines.wasm"
     },
     {
+      "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\ksg76h7fbc.gz",
+      "SourceId": "BlazorTasker",
+      "SourceType": "Computed",
+      "ContentRoot": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
+    },
+    {
       "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\l6s8jppms7.gz",
       "SourceId": "BlazorTasker",
       "SourceType": "Computed",
@@ -6458,6 +6401,25 @@
       "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.Http.wasm"
     },
     {
+      "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\m2g3wg6z81.gz",
+      "SourceId": "BlazorTasker",
+      "SourceType": "Computed",
+      "ContentRoot": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
+    },
+    {
       "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\m5mheekce9.gz",
       "SourceId": "BlazorTasker",
       "SourceType": "Computed",
@@ -6534,6 +6496,25 @@
       "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Data.wasm"
     },
     {
+      "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\n4oaxb8uym.gz",
+      "SourceId": "BlazorTasker",
+      "SourceType": "Computed",
+      "ContentRoot": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
+    },
+    {
       "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\na1k4i4myb.gz",
       "SourceId": "BlazorTasker",
       "SourceType": "Computed",
@@ -6551,6 +6532,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Text.Encodings.Web.wasm"
+    },
+    {
+      "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\nfmhcypp0v.gz",
+      "SourceId": "BlazorTasker",
+      "SourceType": "Computed",
+      "ContentRoot": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
     },
     {
       "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\nssfo7p6t6.gz",
@@ -6684,6 +6684,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.InteropServices.RuntimeInformation.wasm"
+    },
+    {
+      "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\pdm8tx6jky.gz",
+      "SourceId": "BlazorTasker",
+      "SourceType": "Computed",
+      "ContentRoot": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.8.0.15.pdm8tx6jky.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.15.pdm8tx6jky.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.15.pdm8tx6jky.js"
     },
     {
       "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\pmtluuetmq.gz",
@@ -6874,25 +6893,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Tasks.Parallel.wasm"
-    },
-    {
-      "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\qdvlpi5mzi.gz",
-      "SourceId": "BlazorTasker",
-      "SourceType": "Computed",
-      "ContentRoot": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.15.qdvlpi5mzi.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.15.qdvlpi5mzi.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.15.qdvlpi5mzi.js"
     },
     {
       "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\qez40c9vft.gz",
@@ -7102,25 +7102,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.AccessControl.wasm"
-    },
-    {
-      "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\spfrbaxm2o.gz",
-      "SourceId": "BlazorTasker",
-      "SourceType": "Computed",
-      "ContentRoot": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
     },
     {
       "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\srg9s7zpqb.gz",
@@ -7482,6 +7463,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Diagnostics.TraceSource.wasm"
+    },
+    {
+      "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\xgn9mbe6c4.gz",
+      "SourceId": "BlazorTasker",
+      "SourceType": "Computed",
+      "ContentRoot": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
     },
     {
       "Identity": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\obj\\Debug\\net8.0\\compressed\\xq6mhpdxe5.gz",

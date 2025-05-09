@@ -4,9 +4,7 @@ I:\Personally Created Project\BlazorTasker\BlazorTasker\bin\Debug\net8.0\wwwroot
 I:\Personally Created Project\BlazorTasker\BlazorTasker\bin\Debug\net8.0\wwwroot\_framework\BlazorTasker.wasm
 I:\Personally Created Project\BlazorTasker\BlazorTasker\bin\Debug\net8.0\wwwroot\_framework\dotnet.js
 I:\Personally Created Project\BlazorTasker\BlazorTasker\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.map
-I:\Personally Created Project\BlazorTasker\BlazorTasker\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.8.0.15.qdvlpi5mzi.js
 I:\Personally Created Project\BlazorTasker\BlazorTasker\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.wasm
-I:\Personally Created Project\BlazorTasker\BlazorTasker\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.8.0.15.iblbmn14cv.js
 I:\Personally Created Project\BlazorTasker\BlazorTasker\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.js.map
 I:\Personally Created Project\BlazorTasker\BlazorTasker\bin\Debug\net8.0\wwwroot\_framework\icudt_CJK.dat
 I:\Personally Created Project\BlazorTasker\BlazorTasker\bin\Debug\net8.0\wwwroot\_framework\icudt_EFIGS.dat
@@ -310,7 +308,6 @@ I:\Personally Created Project\BlazorTasker\BlazorTasker\bin\Debug\net8.0\wwwroot
 I:\Personally Created Project\BlazorTasker\BlazorTasker\bin\Debug\net8.0\wwwroot\_framework\Microsoft.VisualBasic.Core.wasm.gz
 I:\Personally Created Project\BlazorTasker\BlazorTasker\bin\Debug\net8.0\wwwroot\_framework\System.Globalization.wasm.gz
 I:\Personally Created Project\BlazorTasker\BlazorTasker\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.wasm.gz
-I:\Personally Created Project\BlazorTasker\BlazorTasker\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.8.0.15.iblbmn14cv.js.gz
 I:\Personally Created Project\BlazorTasker\BlazorTasker\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Primitives.wasm.gz
 I:\Personally Created Project\BlazorTasker\BlazorTasker\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XPath.XDocument.wasm.gz
 I:\Personally Created Project\BlazorTasker\BlazorTasker\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Options.wasm.gz
@@ -359,7 +356,6 @@ I:\Personally Created Project\BlazorTasker\BlazorTasker\bin\Debug\net8.0\wwwroot
 I:\Personally Created Project\BlazorTasker\BlazorTasker\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Win32.Registry.wasm.gz
 I:\Personally Created Project\BlazorTasker\BlazorTasker\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.wasm.gz
 I:\Personally Created Project\BlazorTasker\BlazorTasker\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.Parallel.wasm.gz
-I:\Personally Created Project\BlazorTasker\BlazorTasker\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.8.0.15.qdvlpi5mzi.js.gz
 I:\Personally Created Project\BlazorTasker\BlazorTasker\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.Primitives.wasm.gz
 I:\Personally Created Project\BlazorTasker\BlazorTasker\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.wasm.gz
 I:\Personally Created Project\BlazorTasker\BlazorTasker\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.wasm.gz
@@ -1010,15 +1006,6 @@ I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\compres
 I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\compressed\crphhvxncp.gz
 I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\compressed\m6pcv0hlk0.gz
 I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\compressed\pqp9k9dqu0.gz
-I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\compressed\18kc91mtfc.gz
-I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\compressed\ilmvhwlq4q.gz
-I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\compressed\qdvlpi5mzi.gz
-I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\compressed\6nzuremu6l.gz
-I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\compressed\iblbmn14cv.gz
-I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\compressed\hq0e6i90uo.gz
-I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\compressed\spfrbaxm2o.gz
-I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\compressed\erc5gru7zp.gz
-I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\compressed\dplxd7qxl0.gz
 I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\compressed\0v7uixufqd.gz
 I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\compressed\4wjqwcu719.gz
 I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\compressed\fveyapdap7.gz
@@ -2072,3 +2059,16 @@ C:\Users\jerry\source\repos\McKeeJerry-FS\BlazorTasker\BlazorTasker\obj\Debug\ne
 C:\Users\jerry\source\repos\McKeeJerry-FS\BlazorTasker\BlazorTasker\obj\Debug\net8.0\compressed\kydo0fby9q-c9oet2rbup.gz
 C:\Users\jerry\source\repos\McKeeJerry-FS\BlazorTasker\BlazorTasker\obj\Debug\net8.0\compressed\ysfralledi-gcna5nfali.gz
 I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\scopedcss\Components\UI\TaskerLine.razor.rz.scp.css
+I:\Personally Created Project\BlazorTasker\BlazorTasker\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.8.0.15.ggd1fyv7lv.js
+I:\Personally Created Project\BlazorTasker\BlazorTasker\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.8.0.15.pdm8tx6jky.js
+I:\Personally Created Project\BlazorTasker\BlazorTasker\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.8.0.15.ggd1fyv7lv.js.gz
+I:\Personally Created Project\BlazorTasker\BlazorTasker\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.8.0.15.pdm8tx6jky.js.gz
+I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\compressed\nfmhcypp0v.gz
+I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\compressed\xgn9mbe6c4.gz
+I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\compressed\ggd1fyv7lv.gz
+I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\compressed\esmwggrdpn.gz
+I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\compressed\pdm8tx6jky.gz
+I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\compressed\m2g3wg6z81.gz
+I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\compressed\n4oaxb8uym.gz
+I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\compressed\ksg76h7fbc.gz
+I:\Personally Created Project\BlazorTasker\BlazorTasker\obj\Debug\net8.0\compressed\bcbf39ee8b.gz

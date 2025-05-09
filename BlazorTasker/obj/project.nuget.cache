@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2sR517jlj5Y=",
+  "dgSpecHash": "335TMUYGSvw=",
   "success": true,
   "projectFilePath": "I:\\Personally Created Project\\BlazorTasker\\BlazorTasker\\BlazorTasker.csproj",
   "expectedPackageFiles": [
@@ -30,8 +30,7 @@
     "C:\\Users\\jmckee\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.15\\microsoft.jsinterop.webassembly.8.0.15.nupkg.sha512",
     "C:\\Users\\jmckee\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.15\\microsoft.net.illink.tasks.8.0.15.nupkg.sha512",
     "C:\\Users\\jmckee\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.15\\microsoft.net.sdk.webassembly.pack.8.0.15.nupkg.sha512",
-    "C:\\Users\\jmckee\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
-    "C:\\Users\\jmckee\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.15\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.15.nupkg.sha512"
+    "C:\\Users\\jmckee\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }
