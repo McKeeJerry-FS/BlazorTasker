@@ -54,8 +54,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xVSVxNZXNzYWdlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/Personally Created Project/BlazorTasker/BlazorTasker/Components/_Imports.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
+[I:/Personally Created Project/BlazorTasker/BlazorTasker/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [I:/Personally Created Project/BlazorTasker/BlazorTasker/Components/Layout/MainLayout.razor]
